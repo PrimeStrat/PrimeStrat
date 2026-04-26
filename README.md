@@ -12,7 +12,7 @@
 
 <div align="center">
 	<a href="https://git.io/typing-svg">
-		<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=24&duration=2600&pause=850&color=22D3EE&center=true&vCenter=true&repeat=true&width=950&lines=PrimeStrat / Mike+%7C+Game Developer & Technical Programmer;Building+placeholder-worthy+things+with+style;Open+source+%7C+systems+%7C+productsalt="Typing intro" />
+		<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=24&duration=2600&pause=850&color=22D3EE&center=true&vCenter=true&repeat=true&width=950&lines=PrimeStrat+%2F+Mike+%7C+Game+Developer+%26+Technical+Programmer;Building+cool+things+that+actually+ship;Open+source+%7C+systems+%7C+games+%7C+tools" alt="Typing intro" />
 	</a>
 </div>
 
@@ -48,7 +48,3 @@
 ![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-<div align="center">
-	<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=PrimeStrat&bg_color=0f172a&color=e2e8f0&line=22d3ee&point=0891b2&area=true&hide_border=true" alt="Contribution graph" />
-</div>
