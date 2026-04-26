@@ -23,7 +23,7 @@
 **PrimeStrat (Mike)** is a **software engineer** and **technical game developer** focused on high-performance systems, tooling, and scalable backend architecture.
 
 - **10+ years of programming experience** across gameplay engineering, mod/plugin development, and production tooling.
-- **Summa cum laude** graduate with a **B.S. in Computer Science**.
+- **Summa cum laude** graduate with a **Bachelor's Degree in Computer Science**.
 - **Available for contract work** in gameplay systems, developer tooling, and backend services.
 - Building games, addons, mods, and plugins with a long-term goal of founding a game studio.
 
