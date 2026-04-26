@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=26&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&repeat=true&width=980&lines=PrimeStrat+%2F+Mike+%7C+Game+Developer+%26+Technical+Programmer;Designing+fast+systems+for+games+and+tools;Movement-heavy+gameplay+%7C+resource+management+%7C+scalable+backends" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=26&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&repeat=true&width=980&lines=PrimeStrat+%2F+Mike+%7C+Game+Developer+%26+Technical+Programmer;Designing+fast+systems+for+games+and+tools" alt="Typing intro" />
   </a>
 </div>
 
