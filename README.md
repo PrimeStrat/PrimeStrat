@@ -31,6 +31,7 @@
 
 - **PrimeBDS**: the **largest Essentials plugin** for the **Endstone mod loader**, built to assist in performance testing, server moderation, and admin assistance. 
 - **WMCT**: co-owner of one of the largest non-profit **Minecraft Bedrock event experiences**: [WMCT](https://wmct-event.com/).
+- **Minecraft Bedrock Addon Development**: Designed and tested various Addons and Dynamic Worlds for the Minecraft Marketplace.
 - Engineering priorities: **performance**, **scalability**, and **intentional product design**.
 - Core design interests: **movement-focused gameplay** and **resource management systems**.
 
