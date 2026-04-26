@@ -20,14 +20,19 @@
 
 ### 👋 About Me
 
-- Mike, also known online as PrimeStrat (Prime).
-- Software engineer with 10+ years of programming experience.
-- Co-owner of one of the largest non-profit Minecraft Bedrock event experiences: [WMCT](https://wmct-event.com/).
-- Graduated summa cum laude with a B.S. in Computer Science.
-- Available for contract work focused on gameplay systems, developer tooling, and backend architecture.
-- Building games, addons, mods, and plugins with the long-term goal of founding a game studio.
-- Engineering priorities: performance, scalability, and intentional product design.
-- Core interests: movement-focused gameplay and resource management systems.
+**PrimeStrat (Mike)** is a **software engineer** and **technical game developer** focused on high-performance systems, tooling, and scalable backend architecture.
+
+- **10+ years of programming experience** across gameplay engineering, mod/plugin development, and production tooling.
+- **Summa cum laude** graduate with a **B.S. in Computer Science**.
+- **Available for contract work** in gameplay systems, developer tooling, and backend services.
+- Building games, addons, mods, and plugins with a long-term goal of founding a game studio.
+
+#### 🌟 Highlights
+
+- **PrimeBDS**: the **largest Essentials plugin** for the **Endstone mod loader**, built to assist in performance testing, server moderation, and admin assistance. 
+- **WMCT**: co-owner of one of the largest non-profit **Minecraft Bedrock event experiences**: [WMCT](https://wmct-event.com/).
+- Engineering priorities: **performance**, **scalability**, and **intentional product design**.
+- Core design interests: **movement-focused gameplay** and **resource management systems**.
 
 ### 🛠️ Tech Stack
 
