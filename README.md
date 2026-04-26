@@ -22,22 +22,6 @@
 	<tr>
 		<td width="50%" valign="top">
 
-### About
-
-- My name is Mike but folks online call me PrimeStrat or Prime for short.
-- I like building games, addons, mods, and plugins for various studios, my dream is to have my own game studio some day!
-- Right now I am a programmer for hire, DM me!
-- I care about `PERFORMANCE` and `DESIGN`.
-- I LOVE movement and resource management games!
-
-### Additional Stuff
-
-- Experienced in scalable server development and gameplay experiences
-- Experienced in Minecraft Bedrock Edition Addon Development and Server Infrastructure
-- Experienced in using AI responsibly
-
----
-
 ### Languages
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -53,3 +37,18 @@
 ![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+### About
+
+- My name is Mike but folks online call me PrimeStrat or Prime for short.
+- I like building games, addons, mods, and plugins for various studios, my dream is to have my own game studio some day!
+- Right now I am a programmer for hire, DM me!
+- I care about `PERFORMANCE` and `DESIGN`.
+- I LOVE movement and resource management games!
+
+### Additional Stuff
+
+- Experienced in scalable server development and gameplay experiences
+- Experienced in Minecraft Bedrock Edition Addon Development and Server Infrastructure
+- Experienced in using AI responsibly
