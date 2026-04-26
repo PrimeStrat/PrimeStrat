@@ -2,7 +2,7 @@
 	<a href="https://github.com/PrimeStrat">
 		<img src="https://img.shields.io/badge/GitHub-PrimeStrat-111827?style=for-the-badge&logo=github&logoColor=white" alt="https://github.com/PrimeStrat" />
 	</a>
-	<a href="https://your-portfolio.example.com">
+	<a href="https://primestrat.com">
 		<img src="https://img.shields.io/badge/Portfolio-Live%20Site-0f766e?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio link" />
 	</a>
 	<a href="mailto:primestrat00@gmail.com">
