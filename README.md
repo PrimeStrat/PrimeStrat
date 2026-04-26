@@ -11,26 +11,9 @@
 </div>
 
 <div align="center">
-	<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,35:0f766e,70:0891b2,100:22d3ee&text=YOUR_NAME&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=YOUR_ROLE%20%7C%20Builder%20of%20cool%20things&descAlignY=60&animation=fadeIn" alt="Header banner" />
-</div>
-
-<div align="center">
 	<a href="https://git.io/typing-svg">
-		<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=24&duration=2600&pause=850&color=22D3EE&center=true&vCenter=true&repeat=true&width=950&lines=YOUR_NAME+%7C+YOUR_ROLE;Building+placeholder-worthy+things+with+style;Open+source+%7C+systems+%7C+products+%7C+experiments;Replace+these+lines+with+your+actual+story" alt="Typing intro" />
+		<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=24&duration=2600&pause=850&color=22D3EE&center=true&vCenter=true&repeat=true&width=950&lines=PrimeStrat / Mike+%7C+Game Developer & Technical Programmer;Building+placeholder-worthy+things+with+style;Open+source+%7C+systems+%7C+products" alt="Typing intro" />
 	</a>
-</div>
-
-<div align="center">
-	<a href="https://github.com/PrimeStrat?tab=followers">
-		<img src="https://img.shields.io/github/followers/PrimeStrat?style=for-the-badge&logo=github&label=Followers&color=0f172a" alt="GitHub followers" />
-	</a>
-	<a href="https://github.com/PrimeStrat?tab=repositories">
-		<img src="https://img.shields.io/badge/Projects-Featured%20Builds-0f766e?style=for-the-badge&logo=github" alt="Projects badge" />
-	</a>
-	<a href="mailto:YOUR_EMAIL">
-		<img src="https://img.shields.io/badge/Contact-Open%20to%20Collab-0891b2?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact badge" />
-	</a>
-	<img src="https://komarev.com/ghpvc/?username=PrimeStrat&style=for-the-badge&color=22d3ee" alt="Profile views" />
 </div>
 
 ---
@@ -41,7 +24,7 @@
 
 ### About
 
-- I am `YOUR_NAME`, a `YOUR_ROLE` based in `YOUR_CITY`.
+- I am `PrimeStrat / Mike`, a `Game Developer & Technical Programmer` based in `YOUR_CITY`.
 - I like building `PLACEHOLDER_SYSTEMS`, `PLACEHOLDER_PRODUCTS`, and `PLACEHOLDER_EXPERIMENTS`.
 - Right now I am focused on `CURRENT_FOCUS_1`, `CURRENT_FOCUS_2`, and `CURRENT_FOCUS_3`.
 - I care about `PERFORMANCE`, `DESIGN`, `DX`, and `SHIPPING`.
