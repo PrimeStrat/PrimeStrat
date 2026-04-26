@@ -6,7 +6,7 @@
 		<img src="https://img.shields.io/badge/Portfolio-Live%20Site-0f766e?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio link" />
 	</a>
 	<a href="mailto:primestrat00@gmail.com">
-		<img src="https://img.shields.io/badge/Email-YOUR_EMAIL-0891b2?style=for-the-badge&logo=gmail&logoColor=white" alt="primestrat00@gmail.com" />
+		<img src="https://img.shields.io/badge/Email-primestrat00@gmail.com-0891b2?style=for-the-badge&logo=gmail&logoColor=white" alt="primestrat00@gmail.com" />
 	</a>
 </div>
 
