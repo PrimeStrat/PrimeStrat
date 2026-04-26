@@ -41,10 +41,10 @@
 ---
 ### About
 
-- My name is Mike but folks online call me PrimeStrat or Prime for short.
+- My name is Mike but folks online call me PrimeStrat or Prime for short
 - I like building games, addons, mods, and plugins for various studios, my dream is to have my own game studio some day!
 - Right now I am a programmer for hire, DM me!
-- I care about `PERFORMANCE` and `DESIGN`.
+- I care about `PERFORMANCE` and `DESIGN`
 - I LOVE movement and resource management games!
 
 ### Additional Stuff
