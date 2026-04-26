@@ -12,7 +12,7 @@
 
 <div align="center">
 	<a href="https://git.io/typing-svg">
-		<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=24&duration=2600&pause=850&color=22D3EE&center=true&vCenter=true&repeat=true&width=950&lines=PrimeStrat / Mike+%7C+Game Developer & Technical Programmer;Building+placeholder-worthy+things+with+style;Open+source+%7C+systems+%7C+products" alt="Typing intro" />
+		<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=24&duration=2600&pause=850&color=22D3EE&center=true&vCenter=true&repeat=true&width=950&lines=PrimeStrat / Mike+%7C+Game Developer & Technical Programmer;Building+placeholder-worthy+things+with+style;Open+source+%7C+systems+%7C+productsalt="Typing intro" />
 	</a>
 </div>
 
