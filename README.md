@@ -91,17 +91,22 @@ I'm open to **contract work**, and one day I want to start my own **game studio*
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrimeStrat&layout=compact&hide_border=false&bg_color=0b0e13&title_color=22d3ee&text_color=e6edf3&border_color=1f2731" alt="Top languages" />
 </div>
 
-### Work with me
+### Commission me!
 
 I take on contract work and collaborations. Send a short brief with what you need, your timeline, and your budget, and I will reply with next steps.
 
 <a href="mailto:primestrat00@gmail.com"><img src="https://img.shields.io/badge/Email-11161d?style=for-the-badge&logo=gmail&logoColor=22d3ee" alt="Email" /></a>
 <a href="https://discord.com/users/464668375985946624"><img src="https://img.shields.io/badge/Discord-11161d?style=for-the-badge&logo=discord&logoColor=22d3ee" alt="Discord" /></a>
-<a href="https://primestrat.dev/"><img src="https://img.shields.io/badge/primestrat.dev-11161d?style=for-the-badge&logo=googlechrome&logoColor=22d3ee" alt="Portfolio" /></a>
-<a href="https://www.youtube.com/@PrimeStrat"><img src="https://img.shields.io/badge/YouTube-11161d?style=for-the-badge&logo=youtube&logoColor=22d3ee" alt="YouTube" /></a>
-<a href="https://www.twitch.tv/primestrat"><img src="https://img.shields.io/badge/Twitch-11161d?style=for-the-badge&logo=twitch&logoColor=22d3ee" alt="Twitch" /></a>
-<a href="https://www.curseforge.com/members/primothystrat/projects"><img src="https://img.shields.io/badge/CurseForge-11161d?style=for-the-badge&logo=curseforge&logoColor=22d3ee" alt="CurseForge" /></a>
-<a href="https://ko-fi.com/primestrat"><img src="https://img.shields.io/badge/Ko--fi-11161d?style=for-the-badge&logo=kofi&logoColor=22d3ee" alt="Ko-fi" /></a>
+<a href="https://primestrat.dev/contact"><img src="https://img.shields.io/badge/primestrat.dev-11161d?style=for-the-badge&logo=googlechrome&logoColor=22d3ee" alt="Portfolio" /></a>
+
+### Follow
+
+| | |
+|---|---|
+| **Watch** | <a href="https://www.youtube.com/@PrimeStrat"><img src="https://img.shields.io/badge/YouTube-11161d?style=for-the-badge&logo=youtube&logoColor=22d3ee" alt="YouTube" /></a> <a href="https://www.twitch.tv/primestrat"><img src="https://img.shields.io/badge/Twitch-11161d?style=for-the-badge&logo=twitch&logoColor=22d3ee" alt="Twitch" /></a> |
+| **Code** | <a href="https://www.curseforge.com/members/primothystrat/projects"><img src="https://img.shields.io/badge/CurseForge-11161d?style=for-the-badge&logo=curseforge&logoColor=22d3ee" alt="CurseForge" /></a> <a href="https://gamebanana.com/members/5899683"><img src="https://img.shields.io/badge/GameBanana-11161d?style=for-the-badge" alt="GameBanana" /></a> |
+| **Community** | <a href="https://wmct-event.com/"><img src="https://img.shields.io/badge/WMCT-11161d?style=for-the-badge" alt="WMCT" /></a> <a href="https://steamcommunity.com/id/primestrat/"><img src="https://img.shields.io/badge/Steam-11161d?style=for-the-badge&logo=steam&logoColor=22d3ee" alt="Steam" /></a> |
+| **Support** | <a href="https://ko-fi.com/primestrat"><img src="https://img.shields.io/badge/Ko--fi-11161d?style=for-the-badge&logo=kofi&logoColor=22d3ee" alt="Ko-fi" /></a> |
 
 ---
 
