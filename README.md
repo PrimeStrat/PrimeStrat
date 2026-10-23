@@ -15,7 +15,7 @@
   <tr><td colspan="2"><b>PrimeStrat</b> &middot; Prime Software Development</td></tr>
   <tr><td>Experience</td><td>10+ years</td></tr>
   <tr><td>Education</td><td>B.S. Computer Science, summa cum laude</td></tr>
-  <tr><td>Status</td><td><img src="https://img.shields.io/badge/Open_to_contracts-3fb950?style=flat-square" alt="Open to contracts" /></td></tr>
+  <tr><td>Status</td><td><img src="https://img.shields.io/badge/Open_for_commissions-3fb950?style=flat-square" alt="Open for commissions" /></td></tr>
 </table>
 
 ---
@@ -69,7 +69,7 @@ Some of my favorite projects. The rest are on the [works page](https://primestra
 
 I make games. I come up with the idea, figure out what makes it fun, and build it until it's ready to play. Along the way I've also made mods, tools, and websites for games.
 
-I'm open to **contract work**, and one day I want to start my own **game studio**.
+I'm open for **commissions** and project hires, and one day I want to start my own **game studio**.
 
 | | |
 |---|---|
@@ -93,7 +93,7 @@ I'm open to **contract work**, and one day I want to start my own **game studio*
 
 ### Commission me!
 
-I take on contract work and collaborations. Send a short brief with what you need, your timeline, and your budget, and I will reply with next steps.
+I take on commissions and can be hired for projects. Send a short brief with what you need, your timeline, and your budget, and I will reply with next steps.
 
 <a href="mailto:primestrat00@gmail.com"><img src="https://img.shields.io/badge/Email-11161d?style=for-the-badge&logo=gmail&logoColor=22d3ee" alt="Email" /></a>
 <a href="https://discord.com/users/464668375985946624"><img src="https://img.shields.io/badge/Discord-11161d?style=for-the-badge&logo=discord&logoColor=22d3ee" alt="Discord" /></a>
@@ -111,5 +111,5 @@ I take on contract work and collaborations. Send a short brief with what you nee
 ---
 
 <div align="center">
-  <sub>Contract, freelance, or collaboration. Quoted per project after a short brief.</sub>
+  <sub>Commissions and project hires. Quoted per project after a short brief.</sub>
 </div>
